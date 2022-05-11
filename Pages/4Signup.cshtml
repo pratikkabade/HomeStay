@@ -1,0 +1,51 @@
+@page
+@model ContactModel
+@{
+    ViewData["Title"] = "Signup";
+}
+<h1>@ViewData["Title"]</h1>
+<link rel="stylesheet" href="https://app.staticsave.com/root/root.css">
+
+
+<!-- signin section starts -->
+<section id="contact" id="contact">
+</div>
+    <div id="wrapper">
+      <div id="contact-form" style="max-width: 450px; margin: 0 auto;">
+        <div id="form-mid">
+          <form action="javascript:sendmail()" method="post">
+            <div id="field">
+              <input type="text" id="form-control" name="FName" id="FName" placeholder="First Name" required="">
+            </div>
+            <div id="field">
+                <input type="text" id="form-control" name="FName" id="FName" placeholder="Last Name" required="">
+            </div>
+            <div id="field">
+                <input type="text" id="form-control" name="DOB" id="DOB" placeholder="Date of Birth" required="">
+            </div>
+            <div id="field">
+                <input type="text" id="form-control" name="Gender" id="Gender" placeholder="Gender" required="">
+            </div>
+            <div id="field">
+                <input type="tel" id="form-control" name="phonenumber" id="phonenumber" placeholder="Contact Number"
+                  required="">
+            </div>  
+            <div id="field">
+                <input type="email" id="form-control" name="Sender" id="Sender" placeholder="Email"
+                  required="">
+              </div>
+              <div id="field">
+                <input type="text" id="form-control" name="UserCatagory" id="UserCatagory" placeholder="User Catagory"
+                  required="">
+            </div>  
+            <div id="field">
+                <input type="password" id="form-control" name="password" id="password" placeholder="Password"
+                  required="">
+            </div>  
+              <button type="submit" class="btn-contact">Sign Up</button><br><br><br>
+              <a href="/3Signin" class="reg">Already have an account? Signin</a>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>

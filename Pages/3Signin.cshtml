@@ -4,22 +4,30 @@
     ViewData["Title"] = "Signin";
 }
 <h1>@ViewData["Title"]</h1>
+<link rel="stylesheet" href="https://app.staticsave.com/root/root.css">
+        <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<form>
-    <div class="field">
-        <input type="text" class="form-control" name="Name" id="Name" placeholder="Name" required="">
+
+<!-- signin section starts -->
+<section id="contact" id="contact">
+</div>
+    <div id="wrapper">
+      <div id="contact-form" style="max-width: 450px; margin: 0 auto;">
+        <div id="form-mid">
+          <form action="javascript:sendmail()" method="post">
+            <div id="field">
+                <input type="email" id="form-control" name="Sender" id="Sender" placeholder="Email"
+                  required="">
+              </div>
+            <div id="field">
+                <input type="password" id="form-control" name="password" id="password" placeholder="Password"
+                  required="">
+            </div>  
+              <button type="submit" class="btn-contact">Sign in</button><br><br><br>
+              <a href="/4Signup" class="reg">Don't have an account? Signup</a>
+          </form>
+        </div>
+      </div>
     </div>
-    <div class="field">
-        <input type="email" class="form-control" name="Sender" id="Sender" placeholder="Email"
-        required="">
-    </div>
-    <div class="field">
-        <input type="password" class="form-control" name="password" id="password" placeholder="Password"
-        required="">
-    </div>
-    <div class="field">
-        <input type="password" class="form-control" name="cpassword" id="cpassword" placeholder="Confirm Password"
-        required="">
-    </div>
-    <button>Signin</button>
-</form>
+  </section>

@@ -40,3 +40,4 @@
 /home/pratik/Documents/HomeStay/obj/Debug/net5.0/Razor/Pages/1AvailableRooms.cshtml.g.cs
 /home/pratik/Documents/HomeStay/obj/Debug/net5.0/Razor/Pages/2ContactUs.cshtml.g.cs
 /home/pratik/Documents/HomeStay/obj/Debug/net5.0/Razor/Pages/3Signin.cshtml.g.cs
+/home/pratik/Documents/HomeStay/obj/Debug/net5.0/Razor/Pages/4Signup.cshtml.g.cs

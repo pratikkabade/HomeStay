@@ -15644,6 +15644,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/pratik/Documents/HomeStay/Pages/4Signup.cshtml",
+      "TargetPath": "Pages\\4Signup.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/pratik/Documents/HomeStay/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
