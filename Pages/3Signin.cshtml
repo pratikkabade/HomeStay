@@ -1,0 +1,25 @@
+@page
+@model ContactModel
+@{
+    ViewData["Title"] = "Signin";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form>
+    <div class="field">
+        <input type="text" class="form-control" name="Name" id="Name" placeholder="Name" required="">
+    </div>
+    <div class="field">
+        <input type="email" class="form-control" name="Sender" id="Sender" placeholder="Email"
+        required="">
+    </div>
+    <div class="field">
+        <input type="password" class="form-control" name="password" id="password" placeholder="Password"
+        required="">
+    </div>
+    <div class="field">
+        <input type="password" class="form-control" name="cpassword" id="cpassword" placeholder="Confirm Password"
+        required="">
+    </div>
+    <button>Signin</button>
+</form>
