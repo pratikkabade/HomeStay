@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pratik/Documents/HomeStay/HomeStay.csproj",
+      "projectUniqueName": "/home/pratik/Document/HomeStay/HomeStay.csproj",
       "projectName": "HomeStay",
-      "projectPath": "/home/pratik/Documents/HomeStay/HomeStay.csproj",
+      "projectPath": "/home/pratik/Document/HomeStay/HomeStay.csproj",
       "packagesPath": "/home/pratik/.nuget/packages/",
-      "outputPath": "/home/pratik/Documents/HomeStay/obj/",
+      "outputPath": "/home/pratik/Document/HomeStay/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pratik/.nuget/NuGet/NuGet.Config"

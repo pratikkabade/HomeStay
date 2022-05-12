@@ -1,0 +1,114 @@
+@page
+@model RoomDetails
+@{
+    ViewData["Title"] = "Radisson Blu";
+}
+    <link rel="stylesheet" href="~/css/RoomDetails.css" />
+
+
+<section class="details">
+  <div class="images">
+    <img src="https://lh3.googleusercontent.com/p/AF1QipMM_kCAUy1BUO15WsKfKGoA2voI_bHrjWPl7Vt1=w296-h202-n-k-rw-no-v1"draggable="false">
+    <img src="https://lh3.googleusercontent.com/p/AF1QipMM_kCAUy1BUO15WsKfKGoA2voI_bHrjWPl7Vt1=w296-h202-n-k-rw-no-v1"draggable="false">
+    <img src="https://lh3.googleusercontent.com/p/AF1QipMM_kCAUy1BUO15WsKfKGoA2voI_bHrjWPl7Vt1=w296-h202-n-k-rw-no-v1"draggable="false">
+  </div>
+  <div class="subdetails">
+  <div class="text">
+    <p id="hotelName">Radisson Blu</p>
+    <p id="stars">5-star hotel</p>
+    <p href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-mumbai-airport?cid=a:se+b:gmb+c:apac+i:local+e:rdb+d:ind+h:INMHBOMAIR" id="address">Mumbai
+    Metro Station, Marol Maroshi Rd, near Marol, Bori Colony, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059•022 6634 1234</p>
+    <a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-mumbai-airport?cid=a:se+b:gmb+c:apac+i:local+e:rdb+d:ind+h:INMHBOMAIR" id="website">Website</a>
+    <a onclick="copyToClipboard('#address')" id="share">Share</a>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+    function copyToClipboard(element) {
+      var $temp = $("<input>");
+      $("body").append($temp);
+      $temp.val($(element).text()).select();
+      document.execCommand("copy");
+      $temp.remove();
+    }
+    </script>
+  </div>
+  <div class="buybtn">
+    <a href="#avail">$50,000</a>
+  </div>
+  </div>
+
+  <div class="subdetails">
+    <div class="reviews">
+      <p> Rated </p>
+    </div>
+    <div class="reviews"> 
+      <span class="stars-container stars-80">★★★★★</span>
+    </div>
+    <div class="reviews">
+      <a href="#reviw" id="review">Reviews</a>
+    </div>
+  </div>
+</section>
+
+<section class="reviw" id="reviw">
+    <h2>Reviews</h2>
+    <div class="posts">
+      <div class="post">
+        <img src="https://lh3.googleusercontent.com/a/AATXAJwKb1ULBNxS6DXDy0g7kyj0j2th6wKUbKAEXl-X=s40-c-c0x00000000-cc-rp-mo-br100">
+        <p>From <span>Tifny</span></p>
+        <span class="stars-container stars-80">★★★★★</span>
+        <p>"Nice to stay with very polite and soft spoken staff,clean room with tasty food"</p>
+      </div>
+      <div class="post">
+        <img src="https://lh3.googleusercontent.com/a/AATXAJwKb1ULBNxS6DXDy0g7kyj0j2th6wKUbKAEXl-X=s40-c-c0x00000000-cc-rp-mo-br100">
+        <p>From <span>Tifny</span></p>
+        <span class="stars-container stars-80">★★★★★</span>
+        <p>"Nice to stay with very polite and soft spoken staff,clean room with tasty food"</p>
+      </div>
+      <div class="post">
+        <img src="https://lh3.googleusercontent.com/a/AATXAJwKb1ULBNxS6DXDy0g7kyj0j2th6wKUbKAEXl-X=s40-c-c0x00000000-cc-rp-mo-br100">
+        <p>From <span>Tifny</span></p>
+        <span class="stars-container stars-80">★★★★★</span>
+        <p>"Nice to stay with very polite and soft spoken staff,clean room with tasty food"</p>
+      </div>
+    </div>
+    <div class="posts">
+      <div class="post">
+        <img src="https://lh3.googleusercontent.com/a/AATXAJwKb1ULBNxS6DXDy0g7kyj0j2th6wKUbKAEXl-X=s40-c-c0x00000000-cc-rp-mo-br100">
+        <p>From <span>Tifny</span></p>
+        <span class="stars-container stars-80">★★★★★</span>
+        <p>"Nice to stay with very polite and soft spoken staff,clean room with tasty food"</p>
+      </div>
+      <div class="post">
+        <img src="https://lh3.googleusercontent.com/a/AATXAJwKb1ULBNxS6DXDy0g7kyj0j2th6wKUbKAEXl-X=s40-c-c0x00000000-cc-rp-mo-br100">
+        <p>From <span>Tifny</span></p>
+        <span class="stars-container stars-80">★★★★★</span>
+        <p>"Nice to stay with very polite and soft spoken staff,clean room with tasty food"</p>
+      </div>
+      <div class="post">
+        <img src="https://lh3.googleusercontent.com/a/AATXAJwKb1ULBNxS6DXDy0g7kyj0j2th6wKUbKAEXl-X=s40-c-c0x00000000-cc-rp-mo-br100">
+        <p>From <span>Tifny</span></p>
+        <span class="stars-container stars-80">★★★★★</span>
+        <p>"Nice to stay with very polite and soft spoken staff,clean room with tasty food"</p>
+      </div>
+    </div>
+</section>
+
+<section class="avail" id="avail">
+    <h2>Check availability</h2>
+    <div class="datepicker">
+      <div class="date">
+        <p>Check in</p> <input type="date" name="date" id="datepicker">
+        <p>Check out</p> <input type="date" name="date" id="datepicker">
+      </div>
+    </div>
+    <div class="compartment">
+      <div class="left">
+      <h3> Total Days -  </h3>
+      <h3> Total Cost -  </h3>
+      </div>
+      <div class="right">
+      <a href="#" id="check">Checkout</a>
+      </div>
+    </div>
+</section>

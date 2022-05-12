@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 
 namespace HomeStay.Pages
 {
-    public class AvailableRooms : PageModel
+    public class RoomDetails : PageModel
     {
-        private readonly ILogger<AvailableRooms> _logger;
+        private readonly ILogger<RoomDetails> _logger;
 
-        public AvailableRooms(ILogger<AvailableRooms> logger)
+        public RoomDetails(ILogger<RoomDetails> logger)
         {
             _logger = logger;
         }
