@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/pratik/Document/HomeStay/HomeStay.csproj": {}
+    "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj": {}
   },
   "projects": {
-    "/home/pratik/Document/HomeStay/HomeStay.csproj": {
+    "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pratik/Document/HomeStay/HomeStay.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj",
         "projectName": "HomeStay",
-        "projectPath": "/home/pratik/Document/HomeStay/HomeStay.csproj",
-        "packagesPath": "/home/pratik/.nuget/packages/",
-        "outputPath": "/home/pratik/Document/HomeStay/obj/",
+        "projectPath": "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj",
+        "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/pratik/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.407/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
