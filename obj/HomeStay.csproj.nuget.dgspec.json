@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj": {}
+    "C:\\Users\\windows\\Documents\\HomeStay-4\\New folder\\HomeStay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj": {
+    "C:\\Users\\windows\\Documents\\HomeStay-4\\New folder\\HomeStay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj",
+        "projectUniqueName": "C:\\Users\\windows\\Documents\\HomeStay-4\\New folder\\HomeStay.csproj",
         "projectName": "HomeStay",
-        "projectPath": "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\HomeStay.csproj",
+        "projectPath": "C:\\Users\\windows\\Documents\\HomeStay-4\\New folder\\HomeStay.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Documents\\GitHub\\HomeStay\\obj\\",
+        "outputPath": "C:\\Users\\windows\\Documents\\HomeStay-4\\New folder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

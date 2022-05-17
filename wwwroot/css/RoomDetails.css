@@ -179,7 +179,6 @@
   border-radius: 10px;
   box-shadow: 0 1px 10px rgba(7, 95, 177, 0.397);
   width: 300px;
-  height: 200px;
   padding: 10px;
   text-align: center;
   margin: 10px;
@@ -196,17 +195,6 @@
   border-radius: 10px;
   box-shadow: 0 1px 10px rgba(7, 95, 177, 0.397);
   padding-left: 30px;
-}
-.compartment{
-  display: flex;
-  justify-content: space-between;
-  margin-right: 10%;
-  margin-left: 10%;
-  padding-bottom: 20px;
-}
-.right{
-  display: block;
-  margin-top: 100px;
 }
 .date{
   display: flex;
@@ -227,6 +215,24 @@
   border-style: none;
   font-size: 20px;
 }
+
+.compartment{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-right: 20%;
+  margin-left: 20%;
+  padding-bottom: 20px;
+}
+.right{
+  display: block;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top: 90px;
+}
+.right1{
+  text-align: center;
+}
 #check{
   text-decoration: none;
   background-color: rgb(109, 184, 255);
@@ -236,6 +242,18 @@
   font-size: 20px;
   font-weight: 600;
   cursor: help;
+  right: 10%;
+}
+#chng{
+  visibility: hidden;
+    text-decoration: none;
+    background-color: rgb(109, 184, 255);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
 }
 #pay{
   visibility: hidden;
@@ -249,10 +267,31 @@
     cursor: pointer;
 }
 h3{
-  margin-top: 20px;
+  margin-top: 15px;
   font-size: 25px;
 }
 h2{
   margin-top: 15px;
   margin-bottom: 15px;
+}
+.reviews a:hover, .right a:hover{
+  text-decoration: none;
+  filter: brightness(1.2);
+  cursor: pointer;
+}
+#pGate p{
+  margin-top: 15px;
+  font-size: 25px;
+  font-weight: 400;
+}
+#pGate span{
+  font-size: 25px;
+  font-weight: 600;
+}
+#buyzone{
+  display: none;
+  margin-top: 20px;
+  margin-right: 20%;
+  margin-left: 20%;
+  padding-bottom: 20px;
 }

@@ -5,7 +5,10 @@ html {
   position: relative;
   min-height: 100%;
 }
-
+.container a{
+  font-size: 20px;
+  font-weight: 600;
+}
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;

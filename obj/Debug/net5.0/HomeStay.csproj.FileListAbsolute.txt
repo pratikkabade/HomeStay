@@ -92,7 +92,6 @@ C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.deps.
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.runtimeconfig.json
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.runtimeconfig.dev.json
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.dll
-C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\ref\HomeStay.dll
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.pdb
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.Views.dll
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\bin\Debug\net5.0\HomeStay.Views.pdb
@@ -105,7 +104,6 @@ C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.MvcAp
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.RazorAssemblyInfo.cache
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.RazorAssemblyInfo.cs
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\staticwebassets\HomeStay.StaticWebAssets.Manifest.cache
-C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\staticwebassets\HomeStay.StaticWebAssets.xml
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\scopedcss\bundle\HomeStay.styles.css
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.TagHelpers.input.cache
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.TagHelpers.output.cache
@@ -129,47 +127,47 @@ C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\ref\HomeStay.d
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.pdb
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.genruntimeconfig.cache
 C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\HomeStay.csproj.CopyComplete
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\appsettings.json
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.exe
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.deps.json
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.runtimeconfig.json
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.runtimeconfig.dev.json
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.dll
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\ref\HomeStay.dll
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.pdb
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.Views.dll
-C:\Users\windows\Documents\GitHub\HomeStay\bin\Debug\net5.0\HomeStay.Views.pdb
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.csproj.AssemblyReference.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.AssemblyInfoInputs.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.AssemblyInfo.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.csproj.CoreCompileInputs.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.RazorAssemblyInfo.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.RazorAssemblyInfo.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\staticwebassets\HomeStay.StaticWebAssets.Manifest.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\staticwebassets\HomeStay.StaticWebAssets.xml
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\scopedcss\bundle\HomeStay.styles.css
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.TagHelpers.input.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.TagHelpers.output.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.RazorCoreGenerate.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\1.1RoomDetails.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\1AvailableRooms.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\2ContactUs.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\3Signin.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\4Signup.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.RazorTargetAssemblyInfo.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.RazorTargetAssemblyInfo.cs
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.Views.pdb
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.dll
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\ref\HomeStay.dll
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.pdb
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.genruntimeconfig.cache
-C:\Users\windows\Documents\GitHub\HomeStay\obj\Debug\net5.0\HomeStay.csproj.CopyComplete
+C:\Users\windows\Documents\HomeStay-4\HomeStay-4\obj\Debug\net5.0\refint\HomeStay.dll
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\appsettings.json
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.exe
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.deps.json
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.runtimeconfig.json
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.runtimeconfig.dev.json
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.dll
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.pdb
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.Views.dll
+C:\Users\windows\Documents\HomeStay-4\New folder\bin\Debug\net5.0\HomeStay.Views.pdb
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.AssemblyInfo.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.RazorAssemblyInfo.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.RazorAssemblyInfo.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\scopedcss\bundle\HomeStay.styles.css
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\staticwebassets\HomeStay.StaticWebAssets.Manifest.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.TagHelpers.input.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.TagHelpers.output.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.RazorCoreGenerate.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\1.1RoomDetails.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\1AvailableRooms.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\2ContactUs.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\3Signin.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\4Signup.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.RazorTargetAssemblyInfo.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.RazorTargetAssemblyInfo.cs
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.Views.pdb
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.dll
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\refint\HomeStay.dll
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.pdb
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.genruntimeconfig.cache
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\ref\HomeStay.dll
+C:\Users\windows\Documents\HomeStay-4\New folder\obj\Debug\net5.0\HomeStay.csproj.CopyComplete
