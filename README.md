@@ -7,6 +7,7 @@ Build on VS Code using -yo generator, [Reference](https://tattoocoder.com/vscode
 This is a web application on room renting, buying and contacting<br />
 
 ## Screenshots
+Check [this](https://github.com/pratikkabade/homeStay-WebApp/tree/v5/bin/screenshots) for version-wise screenshots
 1. AvailableRooms Page
 ![image](https://user-images.githubusercontent.com/76637730/171385233-8019a2f0-726b-479a-b4db-403f61ed795d.png)<br />
 ***
